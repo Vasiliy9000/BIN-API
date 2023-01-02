@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BIN kotlin</string>
+    <string name="attention">Введите 8 цифр карты</string>
+</resources>
